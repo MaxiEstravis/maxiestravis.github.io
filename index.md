@@ -8,6 +8,6 @@ Welcome to my personal website. I currently hold a Postdoc scholarship at [IPATE
 
 You can find me on [Twitter](https://twitter.com/MaxiEstravis) and [ResearchGate](https://www.researchgate.net/profile/Maximiliano_Estravis_Barcala).
 
-Please feel free to browse through my [bio](bio.md), my [research interests](research_interests.md), and my [publications](publications.md).
+Please feel free to browse through my [bio](pages/bio.md), my [research interests](pages/research_interests.md), and my [publications](pages/publications.md).
 
 **Contact**: <maxiestravis@gmail.com>
