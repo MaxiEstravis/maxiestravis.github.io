@@ -7,7 +7,7 @@ title: Publications
 «Molecular bases of responses to abiotic stress in woody plants». En: Journal of Experimental Botany
 71.13 (2020), págs. 3765-3779. doi: [10.1093/jxb/erz532](https://doi.org/10.1093/jxb/erz532)
 
-2. J. Cagnacci, **M. Estravis-Barcala**, M. Lía, A. Martínez-Meier, M. G. Polo y M. Arana. «The impact of
+2. J. Cagnacci, **M. Estravis-Barcala**, M. V. Lía, A. Martínez-Meier, M. G. Polo y M. V. Arana. «The impact of
 different natural environments on the regeneration dynamics of two Nothofagus species across elevation in
 the southern Andes». En: Forest Ecology and Management 464 (2020). doi: [10.1016/j.foreco.2020.118034](https://doi.org/10.1016/j.foreco.2020.118034)
 
