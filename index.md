@@ -10,4 +10,6 @@ You can find me on [Twitter](https://twitter.com/MaxiEstravis), [Google Scholar]
 
 Please feel free to browse through my [**bio**](pages/bio.html), my [**research interests**](pages/research_interests.html), and my [**publications**](pages/publications.html).
 
-**Contact**: <maxiestravis@gmail.com> / <maximiliano.estravis.barcala@slu.se>
+**Contact**: <maxiestravis@gmail.com>
+
+<maximiliano.estravis.barcala@slu.se>
