@@ -4,5 +4,9 @@ git commit -m "210825_2"
 git push origin master
 
 user: maxiestravis
-pass: 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
-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
+pass: Ir a GitHub -> Settings -> Developer settings -> Personal access tokens -> Generate a personal access token
+
+ponerle un nombre
+tildar "repo"
+darle Create
+copiarla y usarla como pass (debería durar lo q le digo, no sé pq me falla)
