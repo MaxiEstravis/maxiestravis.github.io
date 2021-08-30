@@ -1,6 +1,6 @@
 cd maxiestravis.github.io/
 git add .
-git commit -m "210825_2"
+git commit -m "210830"
 git push origin master
 
 user: maxiestravis
