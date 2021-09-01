@@ -1,6 +1,6 @@
 cd maxiestravis.github.io/
 git add .
-git commit -m "210830"
+git commit -m "210830_2"
 git push origin master
 
 user: maxiestravis
@@ -10,4 +10,4 @@ ponerle un nombre
 tildar "repo"
 darle Create
 copiarla y usarla como pass (debería durar lo q le digo, no sé pq me falla)
-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
+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
